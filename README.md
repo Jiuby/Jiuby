@@ -7,7 +7,7 @@ Full-Stack Web Developer
 I started studying programming 4 years ago, I started studying python and all the back-end development but these last 2 years I realized that any project I have in mind I like to do it regardless of whether it is back-end or front-end (I am not a mobile developer or a game developer)
 
 * 🌍  I'm based in Medellin / Colombia
-* 🖥️  See my portfolio at [Repositories](http://github.com/Jiuby?tab=repositories)
+* 🖥️  See my portfolio at [My page](https://gentle-tree-0f1c75410.4.azurestaticapps.net/)
 * ✉️  You can contact me at [mrjiuby@gmail.com](mailto:mrjiuby@gmail.com)
 * 🧠  I'm learning Frameworks and machine learning
 * 🤝  I'm open to collaborating on interesting Proyects
