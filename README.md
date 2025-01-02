@@ -98,10 +98,21 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Jiuby&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+## About Me 
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Jiuby&show_icons=true&count_private=true&hide_border=true" align="center" />
+    </td>
+    <td>
+      <a href="https://github.com/kittinan/spotify-github-profile">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31dxpsmpv26uupa3ta2wkeoprkh4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<br/>  
+
 
 
 
